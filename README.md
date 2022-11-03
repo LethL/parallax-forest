@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was deploy on github pages (https://lethl.github.io/parallax-forest).
 
 ## Available Scripts
 
